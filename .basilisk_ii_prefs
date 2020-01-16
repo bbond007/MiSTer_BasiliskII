@@ -30,4 +30,3 @@ mixer /dev/mixer
 idlewait true
 rom MAC.ROM
 disk /media/fat/MacPlus/boot.vhd
-ether eth0

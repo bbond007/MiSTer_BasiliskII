@@ -24,7 +24,7 @@ GITHUB_REPO=https://github.com/bbond007/MiSTer_BasiliskII/raw/master
 GITHUB_DEB_REPO="$GITHUB_REPO/DEBS"
 BBOND007_BASILISKII=TRUE
 INTERNET_CHECK=https://github.com
-VERBOSE_MODE=TRUE
+VERBOSE_MODE=FALSE
 
 #These options probably should not be changed...
 DELETE_JUNK=TRUE

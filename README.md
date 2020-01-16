@@ -4,7 +4,11 @@ Basilisk II MAC II Emulator installer and build for the MiSTer platform
 Install instructions:
      
       Run Install_BasiliskII.sh
-	  Install options can be set in BasiliskII.ini 
+	  Install options can be set in Install_BasiliskII.ini 
+	  Install (512K/1MB MAC.ROM) in "/media/fat/BasiliskII"
+	  Edit "/media/fat/BasiliskII/.basilisk_ii_prefs" and specify additional Macintosh VHDs
+	    
+Basilisk II preferences --> https://github.com/sentient06/Medusa/wiki/Basilisk-II-preferences-on-OSX-and-Unix
 	  
 Install_BasiliskII.ini (options)
 
