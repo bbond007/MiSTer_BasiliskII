@@ -10,7 +10,7 @@ Install instructions:
 	    
 Basilisk II preferences --> https://github.com/sentient06/Medusa/wiki/Basilisk-II-preferences-on-OSX-and-Unix
 
-Example MiSTer Scripts for diffrent resolutions --> https://github.com/bbond007/MiSTer_BasiliskII/Example_Scripts
+Example MiSTer Scripts for diffrent resolutions --> https://github.com/bbond007/MiSTer_BasiliskII/tree/master/Example_Scripts
 
 Fix for "ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occured":
 
