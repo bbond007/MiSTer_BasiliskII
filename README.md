@@ -9,7 +9,14 @@ Install instructions:
 	  Edit "/media/fat/BasiliskII/.basilisk_ii_prefs" and specify additional Macintosh VHDs
 	    
 Basilisk II preferences --> https://github.com/sentient06/Medusa/wiki/Basilisk-II-preferences-on-OSX-and-Unix
-	  
+
+Example MiSTer Scripts for diffrent resolutions --> https://github.com/bbond007/MiSTer_BasiliskII/Example_Scripts
+
+Fix for ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occured:
+
+      .basilisk_ii_prefs:
+	  soundbuflen 1
+
 Install_BasiliskII.ini (options)
 
       INSTALL_DIR="/media/fat/BasiliskII"     (Location for BasiliskII bin and libs) 
@@ -20,7 +27,7 @@ Install_BasiliskII.ini (options)
 
 Basilisk II homepage:
 
-      http://https://basilisk.cebix.net/
+      http://basilisk.cebix.net/
 
 Basilisk II source used for build:
 

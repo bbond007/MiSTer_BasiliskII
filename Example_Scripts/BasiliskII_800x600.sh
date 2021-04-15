@@ -12,9 +12,9 @@
 
 BLII_CPU_MASK=03
 BLII_EXE_NAME="BasiliskII"
-BLII_VMODE="-r 640 480 rgb32"
+BLII_VMODE="-r 800 600 rgb32"
 BLII_HOME_DIR="/media/fat/BasiliskII"
-BLII_OPTIONS=""
+BLII_OPTIONS="--config .basilisk_ii_prefs_800x600"
 BLII_LIB_PATH="$BLII_HOME_DIR/arm-linux-gnueabihf:$BLII_HOME_DIR/arm-linux-gnueabihf/pulseaudio"
 BLII_CONF_TMP="/tmp/BLII.config"
 BLII_CONF="$BLII_HOME_DIR/.config"
@@ -29,7 +29,7 @@ mkdir "$BLII_CONF_TMP"
 
 if [ -L "$BLII_CONF" ]; 
 then
-	echo "$BLII_CONF is a synlink - perfect :)"
+	echo "$BLII_CONF is a symlink - perfect :)"
 else
 	if [ -d "$BLII_CONF" ];
 	then

@@ -7,9 +7,9 @@ udpport 6066
 bootdrive 0
 bootdriver 0
 ramsize 33554432?
-frameskip 2
+frameskip 8
 modelid 5
-cpu 3
+cpu 4
 fpu false
 nocdrom false
 #nosound true
@@ -29,5 +29,13 @@ mousewheellines 3
 dsp /dev/dsp
 mixer /dev/mixer
 idlewait true
-rom MAC.ROM
-disk /media/fat/MacPlus/boot.vhd
+rom Q605.ROM
+screen win/1280/1024
+#disk OS_755_650MBCD.iso
+#disk BasiliskII_BOOT.VHD
+#disk MacOS7.6.1
+disk sys.img
+disk Applications.HFV
+disk Games.HFV
+disk /media/fat/MacPlus/BOOT.VHD
+
