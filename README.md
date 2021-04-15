@@ -12,7 +12,7 @@ Basilisk II preferences --> https://github.com/sentient06/Medusa/wiki/Basilisk-I
 
 Example MiSTer Scripts for diffrent resolutions --> https://github.com/bbond007/MiSTer_BasiliskII/Example_Scripts
 
-Fix for ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occured:
+Fix for "ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occured":
 
       .basilisk_ii_prefs:
 	  soundbuflen 1
