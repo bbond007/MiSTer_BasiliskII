@@ -38,3 +38,4 @@ When he Mac boots you will see a drive on the desktop called "Unix" this points 
 - [Basilisk II homepage](http://basilisk.cebix.net/)
 - [Basilisk II source used for build](https://github.com/bbond007/macemu)
 - [BasiliskII test video](https://youtu.be/i1sd9KeK1vQ)
+- [E-Maculation](https://www.emaculation.com) a popular wiki and forum with Macintosh emulator enthusiasts
