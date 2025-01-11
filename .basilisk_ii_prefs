@@ -1,5 +1,5 @@
 displaycolordepth 0
-extfs /
+extfs /media/fat/BasiliskII
 seriala /dev/ttyS0
 serialb /dev/ttyS1
 udptunnel false
@@ -11,7 +11,7 @@ frameskip 2
 modelid 5
 cpu 3
 fpu false
-nocdrom false
+nocdrom true
 #nosound true
 soundbuflen 1
 noclipconversion false
