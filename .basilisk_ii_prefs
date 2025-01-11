@@ -1,5 +1,5 @@
 displaycolordepth 0
-extfs /
+extfs /media/fat/BasiliskII
 seriala /dev/ttyS0
 serialb /dev/ttyS1
 udptunnel false
