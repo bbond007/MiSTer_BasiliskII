@@ -19,7 +19,7 @@ VERBOSE_MODE="FALSE"                    (TRUE for verbose mode for debugging iss
 ## Configuring Basilisk II
 
 - [Basilisk II preferences](https://github.com/sentient06/Medusa/wiki/Basilisk-II-preferences-on-OSX-and-Unix)
-- [Official README for Basilisk II]()
+- [Official README for Basilisk II](https://github.com/cebix/macemu/blob/master/BasiliskII/README.md)
 - [Example MiSTer Scripts for diffrent resolutions](https://github.com/bbond007/MiSTer_BasiliskII/tree/master/Example_Scripts)
 
 # FAQ
